@@ -1,0 +1,101 @@
+Component_ID,Component_Name,Category,Source_Type,Base_Cost_USD,Quantity,Lead_Time_Days,Transport_Cost_USD,Customs_Duty_Percent,Currency_Rate,Total_Cost_USD
+C001,Metal Bracket,Mechanical,Import,172.45,84,26,45.83,15.62,1.37,23008.21
+C002,Connector Pin,Electrical,Local,110.58,63,27,49.27,0.0,1.0,7015.81
+C003,Plastic Clip,Plastic,Import,209.18,404,24,58.61,10.14,1.12,104312.9
+C004,Sensor Board,Electrical,Local,72.39,208,3,13.98,0.0,1.0,15071.1
+C005,Sensor Board,Electrical,Import,198.95,76,19,95.01,24.96,1.35,25635.44
+C006,Sensor Board,Electrical,Local,55.92,306,5,11.01,0.0,1.0,17122.53
+C007,Steel Frame,Mechanical,Local,83.32,218,3,56.2,0.0,1.0,18219.96
+C008,Plastic Clip,Plastic,Import,238.33,31,13,27.6,19.18,1.17,10334.48
+C009,Bearing,Mechanical,Import,176.26,37,10,79.71,10.6,1.46,10647.23
+C010,Plastic Casing,Plastic,Local,124.26,236,30,71.67,0.0,1.0,29397.03
+C011,Plastic Casing,Plastic,Local,134.35,224,6,29.93,0.0,1.0,30124.33
+C012,Plastic Clip,Plastic,Local,102.91,63,13,54.57,0.0,1.0,6537.9
+C013,Plastic Casing,Plastic,Import,90.06,115,22,84.51,18.59,1.38,17066.13
+C014,Plastic Clip,Plastic,Local,155.25,299,8,94.43,0.0,1.0,46514.18
+C015,Bearing,Mechanical,Import,78.21,173,15,5.63,24.62,1.39,23445.31
+C016,Plastic Casing,Plastic,Local,235.78,309,13,41.33,0.0,1.0,72897.35
+C017,Metal Bracket,Mechanical,Import,27.42,380,8,57.27,10.57,1.29,14935.91
+C018,Rubber Seal,Plastic,Import,158.55,459,22,64.28,13.8,1.27,105259.64
+C019,Gear Shaft,Mechanical,Local,55.87,182,6,12.69,0.0,1.0,10181.03
+C020,Gear Shaft,Mechanical,Local,60.57,466,4,94.8,0.0,1.0,28320.42
+C021,Wire Harness,Electrical,Import,16.54,118,23,67.59,18.98,1.37,3273.95
+C022,Plastic Casing,Plastic,Import,94.2,53,29,90.51,13.45,1.16,6675.35
+C023,Steel Frame,Mechanical,Local,8.65,25,6,43.43,0.0,1.0,259.68
+C024,Plastic Clip,Plastic,Import,246.36,291,23,86.91,24.72,1.15,102924.57
+C025,Plastic Clip,Plastic,Import,32.54,304,9,29.58,15.47,1.12,12826.3
+C026,Rubber Seal,Plastic,Local,106.72,109,29,35.82,0.0,1.0,11668.3
+C027,Metal Bracket,Mechanical,Import,38.22,486,22,76.23,15.44,1.34,28835.62
+C028,Plastic Casing,Plastic,Import,37.43,490,17,86.75,22.52,1.29,29099.53
+C029,Plastic Casing,Plastic,Local,36.77,356,16,33.34,0.0,1.0,13123.46
+C030,Plastic Clip,Plastic,Local,83.55,486,3,90.2,0.0,1.0,40695.5
+C031,Bearing,Mechanical,Import,54.72,192,28,30.57,20.49,1.14,14466.07
+C032,Bearing,Mechanical,Import,104.52,436,7,59.15,11.91,1.32,67395.69
+C033,Plastic Casing,Plastic,Import,150.91,200,7,41.21,23.49,1.3,48506.85
+C034,Plastic Clip,Plastic,Import,209.86,248,13,3.73,21.52,1.35,85386.36
+C035,Rubber Seal,Plastic,Local,110.97,92,4,13.74,0.0,1.0,10222.98
+C036,Plastic Clip,Plastic,Import,65.7,29,28,50.11,24.21,1.28,3093.35
+C037,Rubber Seal,Plastic,Import,123.34,226,4,15.27,21.87,1.18,40103.88
+C038,Connector Pin,Electrical,Import,39.88,371,7,78.4,24.03,1.45,26722.39
+C039,Gear Shaft,Mechanical,Local,177.84,493,24,18.02,0.0,1.0,87693.14
+C040,Connector Pin,Electrical,Local,161.14,137,14,12.75,0.0,1.0,22088.93
+C041,Bearing,Mechanical,Local,192.62,269,30,87.18,0.0,1.0,51901.96
+C042,Bearing,Mechanical,Import,7.48,243,20,75.16,15.14,1.22,2644.95
+C043,Metal Bracket,Mechanical,Local,224.41,204,20,59.66,0.0,1.0,45839.3
+C044,Sensor Board,Electrical,Local,54.16,177,13,50.76,0.0,1.0,9637.08
+C045,Plastic Casing,Plastic,Import,244.43,61,15,52.8,15.22,1.42,24469.96
+C046,Rubber Seal,Plastic,Local,136.32,247,27,89.19,0.0,1.0,33760.23
+C047,Sensor Board,Electrical,Import,16.3,344,10,45.95,22.18,1.17,8069.29
+C048,Sensor Board,Electrical,Local,7.49,394,16,23.87,0.0,1.0,2974.93
+C049,Display Unit,Electrical,Local,144.47,275,18,3.08,0.0,1.0,39732.33
+C050,Control Unit,Electrical,Local,138.62,329,20,17.69,0.0,1.0,45623.67
+C051,Wire Harness,Electrical,Local,249.04,196,3,57.14,0.0,1.0,48868.98
+C052,Metal Bracket,Mechanical,Import,96.4,50,18,28.21,16.14,1.14,6413.82
+C053,Sensor Board,Electrical,Import,160.8,17,30,9.3,14.06,1.23,3846.51
+C054,Display Unit,Electrical,Import,76.7,377,27,90.0,23.25,1.23,43946.48
+C055,Plastic Casing,Plastic,Local,113.08,443,3,53.93,0.0,1.0,50148.37
+C056,Sensor Module,Electrical,Import,83.48,321,9,94.39,13.44,1.34,40860.62
+C057,Sensor Module,Electrical,Local,63.0,100,11,95.93,0.0,1.0,6395.93
+C058,Metal Bracket,Mechanical,Local,129.62,480,27,84.76,0.0,1.0,62302.36
+C059,Connector Pin,Electrical,Import,203.61,435,19,2.24,10.17,1.17,114168.83
+C060,Sensor Module,Electrical,Local,52.65,471,21,17.44,0.0,1.0,24815.59
+C061,Rubber Seal,Plastic,Import,174.33,203,25,50.52,21.94,1.13,48820.36
+C062,Plastic Casing,Plastic,Local,185.15,91,19,84.97,0.0,1.0,16933.62
+C063,Metal Bracket,Mechanical,Local,93.84,324,8,57.2,0.0,1.0,30461.36
+C064,Rubber Seal,Plastic,Import,46.02,44,18,18.67,23.6,1.4,3529.99
+C065,Control Unit,Electrical,Local,210.86,321,26,43.63,0.0,1.0,67729.69
+C066,Sensor Board,Electrical,Import,59.17,365,23,59.85,12.89,1.44,35194.69
+C067,Rubber Seal,Plastic,Import,113.43,231,9,2.67,13.97,1.44,43006.27
+C068,Rubber Seal,Plastic,Local,112.22,359,28,40.09,0.0,1.0,40327.07
+C069,Gear Shaft,Mechanical,Import,141.14,148,22,60.23,20.63,1.25,31572.87
+C070,Plastic Clip,Plastic,Import,116.8,397,17,39.43,12.57,1.4,73132.76
+C071,Rubber Seal,Plastic,Local,157.81,25,21,95.5,0.0,1.0,4040.75
+C072,Plastic Casing,Plastic,Local,88.03,488,30,52.69,0.0,1.0,43011.33
+C073,Steel Frame,Mechanical,Local,9.17,418,26,24.77,0.0,1.0,3857.83
+C074,Connector Pin,Electrical,Import,217.93,481,1,95.08,18.24,1.13,140164.49
+C075,Control Unit,Electrical,Local,50.58,265,22,11.1,0.0,1.0,13414.8
+C076,Connector Pin,Electrical,Local,17.24,262,20,13.86,0.0,1.0,4530.74
+C077,Sensor Board,Electrical,Import,48.88,124,29,34.98,11.72,1.41,9597.11
+C078,Display Unit,Electrical,Import,75.27,238,27,85.08,14.84,1.44,29747.26
+C079,Rubber Seal,Plastic,Local,21.78,289,23,44.48,0.0,1.0,6338.9
+C080,Sensor Board,Electrical,Import,210.25,493,5,36.23,20.75,1.42,177780.49
+C081,Metal Bracket,Mechanical,Local,236.0,33,9,31.44,0.0,1.0,7819.44
+C082,Control Unit,Electrical,Local,151.2,105,14,76.7,0.0,1.0,15952.7
+C083,Metal Bracket,Mechanical,Local,143.43,165,17,50.99,0.0,1.0,23716.94
+C084,Plastic Clip,Plastic,Local,172.01,473,24,37.56,0.0,1.0,81398.29
+C085,Connector Pin,Electrical,Local,55.24,410,27,65.61,0.0,1.0,22714.01
+C086,Steel Frame,Mechanical,Import,239.91,82,19,27.67,17.03,1.3,29965.7
+C087,Sensor Module,Electrical,Local,155.59,183,9,19.15,0.0,1.0,28492.12
+C088,Rubber Seal,Plastic,Local,127.57,451,12,99.34,0.0,1.0,57633.41
+C089,Sensor Board,Electrical,Import,42.67,400,13,76.69,18.95,1.36,27715.54
+C090,Control Unit,Electrical,Import,11.17,221,28,67.83,14.24,1.35,3898.7
+C091,Steel Frame,Mechanical,Local,119.48,280,3,55.16,0.0,1.0,33509.56
+C092,Bearing,Mechanical,Import,110.18,24,27,27.61,18.15,1.43,4507.18
+C093,Plastic Clip,Plastic,Local,108.53,345,26,23.59,0.0,1.0,37466.44
+C094,Rubber Seal,Plastic,Import,52.91,436,11,97.38,22.61,1.3,36896.58
+C095,Bearing,Mechanical,Import,95.21,263,30,77.22,16.93,1.45,42567.3
+C096,Display Unit,Electrical,Import,50.4,140,1,4.65,18.8,1.2,10064.61
+C097,Sensor Module,Electrical,Local,102.63,244,15,51.99,0.0,1.0,25093.71
+C098,Rubber Seal,Plastic,Local,239.82,174,26,66.83,0.0,1.0,41795.51
+C099,Connector Pin,Electrical,Import,14.51,157,14,80.76,10.78,1.12,2916.93
+C100,Steel Frame,Mechanical,Local,20.82,168,6,51.7,0.0,1.0,3549.46
